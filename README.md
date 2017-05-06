@@ -3,9 +3,6 @@ Starter project for my Angular training sessions:
 - Angular up & running course
 - Advanced Angular workshop
 - Angular, Material & Firebase (FAM) workshop
-- Angular & Redux Workshop
-- Reactive Angular workshop
-- Angular Reactive Forms workshop
 
 For updates about my next workshop location and date, 
 follow me on twitter: [@nirkaufman](https://twitter.com/nirkaufman).
